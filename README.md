@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Zhuoxng
-- 👀 I’m interested in algorithms and web development
 
 <!---
 Zhuoxng/Zhuoxng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
